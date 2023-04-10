@@ -5,7 +5,7 @@
 - npm install
 
 #### server futtatása:
-- node server/index.js
+- npm run start
 
 
 #### supertest futtatása:
